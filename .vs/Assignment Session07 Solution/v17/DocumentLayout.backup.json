@@ -1,10 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Route\\.NET_track\\Session 17 - Back-end C# OOP\\Assignment_15\\assignment_15-answers\\Assignment Session07 Solution\\",
+  "WorkspaceRootPath": "D:\\Web-Programming\\C#\\Route-Assignment15-CSharp_OOP_Assignment03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A657F95E-8542-404F-805F-352C0B1ADB80}|Assignment Session07\\Assignment Session07.csproj|e:\\route\\.net_track\\session 17 - back-end c# oop\\assignment_15\\assignment_15-answers\\assignment session07 solution\\assignment session07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A657F95E-8542-404F-805F-352C0B1ADB80}|Assignment Session07\\Assignment Session07.csproj|d:\\web-programming\\c#\\route-assignment15-csharp_oop_assignment03\\assignment session07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A657F95E-8542-404F-805F-352C0B1ADB80}|Assignment Session07\\Assignment Session07.csproj|solutionrelative:assignment session07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657F95E-8542-404F-805F-352C0B1ADB80}|Assignment Session07\\Assignment Session07.csproj|d:\\web-programming\\c#\\route-assignment15-csharp_oop_assignment03\\assignment session07\\classes\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A657F95E-8542-404F-805F-352C0B1ADB80}|Assignment Session07\\Assignment Session07.csproj|solutionrelative:assignment session07\\classes\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657F95E-8542-404F-805F-352C0B1ADB80}|Assignment Session07\\Assignment Session07.csproj|d:\\web-programming\\c#\\route-assignment15-csharp_oop_assignment03\\assignment session07\\classes\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A657F95E-8542-404F-805F-352C0B1ADB80}|Assignment Session07\\Assignment Session07.csproj|solutionrelative:assignment session07\\classes\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A657F95E-8542-404F-805F-352C0B1ADB80}|Assignment Session07\\Assignment Session07.csproj|d:\\web-programming\\c#\\route-assignment15-csharp_oop_assignment03\\assignment session07\\classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A657F95E-8542-404F-805F-352C0B1ADB80}|Assignment Session07\\Assignment Session07.csproj|solutionrelative:assignment session07\\classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web-Programming\\C#\\Route-My_CSharp_Demo\\Hello World\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,25 +29,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 258,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web-Programming\\C#\\Route-My_CSharp_Demo\\Hello World\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Route-My_CSharp_Demo\\Hello World\\Program.cs",
+              "ToolTip": "D:\\Web-Programming\\C#\\Route-My_CSharp_Demo\\Hello World\\Program.cs",
+              "RelativeToolTip": "..\\Route-My_CSharp_Demo\\Hello World\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T12:35:11.106Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintedBook.cs",
+              "DocumentMoniker": "D:\\Web-Programming\\C#\\Route-Assignment15-CSharp_OOP_Assignment03\\Assignment Session07\\Classes\\PrintedBook.cs",
+              "RelativeDocumentMoniker": "Assignment Session07\\Classes\\PrintedBook.cs",
+              "ToolTip": "D:\\Web-Programming\\C#\\Route-Assignment15-CSharp_OOP_Assignment03\\Assignment Session07\\Classes\\PrintedBook.cs",
+              "RelativeToolTip": "Assignment Session07\\Classes\\PrintedBook.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:51:21.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EBook.cs",
+              "DocumentMoniker": "D:\\Web-Programming\\C#\\Route-Assignment15-CSharp_OOP_Assignment03\\Assignment Session07\\Classes\\EBook.cs",
+              "RelativeDocumentMoniker": "Assignment Session07\\Classes\\EBook.cs",
+              "ToolTip": "D:\\Web-Programming\\C#\\Route-Assignment15-CSharp_OOP_Assignment03\\Assignment Session07\\Classes\\EBook.cs",
+              "RelativeToolTip": "Assignment Session07\\Classes\\EBook.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:51:07.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Web-Programming\\C#\\Route-Assignment15-CSharp_OOP_Assignment03\\Assignment Session07\\Classes\\Book.cs",
+              "RelativeDocumentMoniker": "Assignment Session07\\Classes\\Book.cs",
+              "ToolTip": "D:\\Web-Programming\\C#\\Route-Assignment15-CSharp_OOP_Assignment03\\Assignment Session07\\Classes\\Book.cs",
+              "RelativeToolTip": "Assignment Session07\\Classes\\Book.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:48:11.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Route\\.NET_track\\Session 17 - Back-end C# OOP\\Assignment_15\\assignment_15-answers\\Assignment Session07 Solution\\Assignment Session07\\Program.cs",
+              "DocumentMoniker": "D:\\Web-Programming\\C#\\Route-Assignment15-CSharp_OOP_Assignment03\\Assignment Session07\\Program.cs",
               "RelativeDocumentMoniker": "Assignment Session07\\Program.cs",
-              "ToolTip": "E:\\Route\\.NET_track\\Session 17 - Back-end C# OOP\\Assignment_15\\assignment_15-answers\\Assignment Session07 Solution\\Assignment Session07\\Program.cs",
+              "ToolTip": "D:\\Web-Programming\\C#\\Route-Assignment15-CSharp_OOP_Assignment03\\Assignment Session07\\Program.cs",
               "RelativeToolTip": "Assignment Session07\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowE0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T16:06:16.297Z",
               "EditorCaption": ""
